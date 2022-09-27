@@ -20,4 +20,3 @@ class regisevent extends Model
         return $this->belongsTo(pasien::class,'id_pasien','id_pasien');
     }
 }
-
