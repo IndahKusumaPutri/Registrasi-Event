@@ -156,3 +156,4 @@ class RegiseventController extends Controller
         return view('regisevent.cetakregisevent',compact('cetakregisevent'));
     }
 }
+
