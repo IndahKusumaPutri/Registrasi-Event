@@ -32,3 +32,4 @@ class CreateRegisEventsTable extends Migration
         Schema::dropIfExists('regisevents');
     }
 }
+
